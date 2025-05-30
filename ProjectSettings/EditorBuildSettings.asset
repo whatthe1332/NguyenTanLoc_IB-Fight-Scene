@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/MainMenu.unity
+    guid: 89c2a1e96fa393a49a5bff6f37c0ecad
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv1.unity
+    guid: d5169a1963ac00147a42eb55ed2b6f90
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv1.unity
+    guid: 8751ba596c524454d91a05248536c4bb
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv1.unity
+    guid: 1ac63398e33624547aa4b2fd26b678a7
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv2.unity
+    guid: e3dbfbff8fb8c5a4a90f219cd5cf8d1c
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv3.unity
+    guid: ef3f0eb2cd0b9fc40820efd92d7b0422
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv4.unity
+    guid: d5868d16a19c481429d574ae678eab06
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv2.unity
+    guid: 2495a9a0d3b7cb14797c0796d0f14405
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv3.unity
+    guid: 17e80e2da7adf904e8c448c96f45382b
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv4.unity
+    guid: 3d553da7da4fc08488212fb1aad27f86
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv5.unity
+    guid: 750ea97c5e8a546419246ff56333c51b
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv6.unity
+    guid: ccaa71bf81a61d84688c6315cb9c6b23
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv7.unity
+    guid: 0ffc8405645bbd646a327885f3d615a7
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv8.unity
+    guid: 39a0e0ab2c7848e47a3d1159ac0b8c36
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv9.unity
+    guid: 8aa2e9a1623231b4ebba825f0a8a2d9d
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1vMany/1vM_lv10.unity
+    guid: 6a538b688474e514f89d14ae3c919bae
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv5.unity
+    guid: d8b37108719b27a44a72258e7748b656
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv7.unity
+    guid: d4d9dfc8a5a77f74e96747adf1da4dfa
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv6.unity
+    guid: b36aa91e514072142a84549eade352d4
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv8.unity
+    guid: 4fc79d1927beb594c9edb56d4403df51
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv9.unity
+    guid: 3c27a75dba0bf2f4a99c0279b2f89580
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/1v1/1v1_lv10.unity
+    guid: 9983cffd28c89e84380e29e5f1a59835
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv2.unity
+    guid: 60fe1a69fb9aebd49bcb3d221248b9ba
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv3.unity
+    guid: 6f965184470864242877ef4a8712a11f
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv4.unity
+    guid: 353873990215e9c4a9d2355974eb1400
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/testlag.unity
+    guid: 39f0d884d837b4942a232d82eb8f5e11
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv5.unity
+    guid: 883d7dbd549b03343a6b664534ef9b4d
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv6.unity
+    guid: 9b2a69c43ae93044daf3f8f6e45a00a0
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv7.unity
+    guid: 6c1b62ffb6709114dbba644927bd2ce0
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv8.unity
+    guid: aac9f92bbd2606a40a4630672f3217e6
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv9.unity
+    guid: aabc7cd14f6ed4c4fbf15cc021479bbc
+  - enabled: 1
+    path: Assets/EZ Assets/Scenes/ManyvMany/MvM_lv10.unity
+    guid: ab9a91b34e803974580ea73519b686b1
+  m_configObjects: {}
